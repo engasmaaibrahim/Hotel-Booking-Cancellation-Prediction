@@ -54,8 +54,8 @@ The model used:
 ### 1️- Clone the repository
 
 ```bash id="n9nqv2"
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/engasmaaibrahim/Hotel-Booking-Cancellation-Prediction.git
+cd Hotel-Booking-Cancellation-Prediction
 ```
 
 
