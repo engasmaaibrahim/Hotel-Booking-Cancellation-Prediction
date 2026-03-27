@@ -73,13 +73,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
-
-### 4- Open in browser
-
-```text id="1f2pwx"
-http://127.0.0.1:5000/
-```
 
 ---
 
